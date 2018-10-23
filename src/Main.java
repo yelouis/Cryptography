@@ -4,7 +4,7 @@ public class Main {
     public static void main (String[] args) {
         //keyGen();
        RSA runner = new RSA("222395321787836518691", "154094292072161335507",
-                "158256261900246722011", 65);
+                "158256261900246722011", 66);
         //System.out.println("Message: "+ runner.encryptMessage("Delaware, Maryland, New Jersey, New York, Ohio, West Virginia", "222395321787836518691",
                 //"158256261900246722011"));
        // System.out.println("Message: " + runner.decryptingMessage("113073535549861574219,41330179509411463749,143671647165577043262,5313114222390994501,132158891411143309618,90019404282813502545"));
